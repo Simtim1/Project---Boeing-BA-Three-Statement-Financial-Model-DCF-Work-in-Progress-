@@ -3,6 +3,8 @@
 
 > **Disclaimer:** This model is built for learning purposes only. Figures, assumptions, and projections are not intended for investment analysis or decision-making.
 
+> **Currently filling out the forecasted cash flow statement.
+
 ---
 
 ## Overview
