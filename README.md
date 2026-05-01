@@ -9,7 +9,7 @@
 
 ## Overview
 
-A dynamic, driver-based three statement financial model built on Boeing's publicly reported financials (FY2021–FY2025), with forward projections extended to FY2030. The goal of this project is to develop hands-on experience building an integrated model from scratch — understanding how assumptions and historical data flow through the income statement, balance sheet, and cash flow statement.
+A dynamic, driver-based three statement financial model built on Boeing's publicly reported financials (FY2021–FY2025), with forward projections extended to FY2030. The goal of this project is to develop experience building an integrated model from scratch — understanding how assumptions and historical data flow through the income statement, balance sheet, and cash flow statement.
 
 ---
 
