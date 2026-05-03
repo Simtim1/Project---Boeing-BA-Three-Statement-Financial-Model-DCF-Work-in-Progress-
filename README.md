@@ -18,6 +18,7 @@ A dynamic, driver-based three statement financial model built on Boeing's public
 | **Cover** | Title page with model metadata |
 | **Assumptions** | All forecast drivers in one place — growth rates, margins, working capital days, capex, tax rates |
 | **3 Statement Model** | Fully linked IS, BS, and CFS with historical actuals and projections |
+| **DCF** | WACC-based valuation with terminal value, equity bridge, sensitivity tables, and three scenario toggle |
 
 ---
 
