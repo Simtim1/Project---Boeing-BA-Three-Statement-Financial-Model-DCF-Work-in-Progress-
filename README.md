@@ -2,9 +2,6 @@
 ### FY2021–FY2030E | Work in Progress
 
 > **Disclaimer:** This model is built for learning purposes only. Figures, assumptions, and projections are not intended for investment analysis or decision-making.
-
-> Finished forecasted 3 statement model, attempting to make the balance sheet balance!!
-
 ---
 
 ## Overview
