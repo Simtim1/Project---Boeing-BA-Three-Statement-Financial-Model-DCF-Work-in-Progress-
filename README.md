@@ -2,6 +2,7 @@
 ### FY2021–FY2030E | Work in Progress
 
 > **Disclaimer:** This model is built for learning purposes only. Figures, assumptions, and projections are not intended for investment analysis or decision-making.
+DCF outputs are negative across all scenarios due to Boeing's projected negative EBITDA through FY2030, reflecting the model's conservative working capital assumptions. This is a known limitation and is discussed within the model.
 ---
 
 ## Overview
