@@ -30,6 +30,8 @@ A dynamic, driver-based three statement financial model built on Boeing's public
 - **Capex & depreciation scheduling** — capex as % of revenue and PP&E
 - **Financial ratios** — EBIT margin, gross margin, net income margin, EPS (basic & diluted), interest coverage, net debt/EBITDA
 - **Per share metrics** — basic and diluted EPS across the forecast period
+- **DCF valuation** — UFCF build, WACC, terminal value (exit multiple and perpetuity growth methods)
+- **Scenario analysis** — Grey Sky / Base Case / Blue Sky toggle driving DIO and revenue growth assumptions simultaneously
 
 ---
 
