@@ -51,9 +51,9 @@ A dynamic, driver-based three statement financial model built on Boeing's public
 
 This is an ongoing project. Areas currently being developed:
 
-- [ ] DCF valuation (WACC, terminal value, implied share price)
-- [ ] Sensitivity analysis on key assumptions
-- [ ] Scenario toggles (base / bull / bear)
+- [x] DCF valuation (WACC, terminal value, implied share price)
+- [x] Sensitivity analysis on key assumptions
+- [x] Scenario toggles (base / bull / bear)
 - [ ] Refinement of forecast logic for post-2025 projections
 
 ---
